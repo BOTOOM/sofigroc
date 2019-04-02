@@ -1,0 +1,20 @@
+#banner {
+    background-image: url("../../../assets/img/banner.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 28em;
+    ;
+    position: relative;
+}
+#texto {
+    position: absolute;
+    text-align: center;
+    top: 600px;
+    /* bottom: 0; */
+    left: 0;
+    width: 100%;
+    background: #413f3f;
+    background: rgba(17, 16, 16, 0.50);
+    color: #fff;
+    padding: 1.5em 0;
+}

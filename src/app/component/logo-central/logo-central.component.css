@@ -1,0 +1,10 @@
+#header {
+    text-align: center;
+    padding: 3em 0 0 0;
+    background-color: #fff;
+    background-image: url("../../../assets/img/bg02.png"), url("../../../assets/img/bg02.png"), url("../../../assets/img/bg01.png");
+    background-position: top left,					top left,					top left;
+    background-size: 100% 6em,					100% 6em,					auto;
+    background-repeat: no-repeat,					no-repeat,					repeat;
+    padding: 50px
+}
